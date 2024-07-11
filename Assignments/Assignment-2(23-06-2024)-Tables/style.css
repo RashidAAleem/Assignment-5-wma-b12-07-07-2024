@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(75, 225, 155, 0.3);
+    font-family: Arial, Verdana, sans-serif;
+    
+    padding: 10px;}
+    button{
+        padding: 10px;
+        border-radius: 5px    }
+    button:hover{
+        background-color: #04AA6D; /* Green */
+        color: white;
+    }
+
+    h1{
+        text-decoration: underline;
+    }
+    th{
+        background-color: blue;
+    }

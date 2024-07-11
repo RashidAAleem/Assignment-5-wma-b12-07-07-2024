@@ -1,0 +1,52 @@
+body{
+    background-color: brown;
+    align: center;
+}
+
+button{
+    padding: 10px;
+    border-radius: 5px    }
+button:hover{
+    background-color: #04AA6D; /* Green */
+    color: white;
+}
+h1{
+    color: white;
+    font-style: italic;
+    font: Times New Roman;
+    text-decoration: underline;
+    text-align: center
+}
+table{
+    margin-left: auto;
+  margin-right: auto;
+}
+tr:nth-of-type(odd) td:nth-of-type(odd){
+    background-color: rgb(235, 239, 188);
+    width: 100px; 
+    height: 100px;
+    align: center;
+    /* background-color: tomato; */
+}
+tr:nth-of-type(odd) td:nth-of-type(even){
+    background-color: rgb(97, 181, 86);
+    width: 100px; 
+    height: 100px;
+    align: center;
+    /* background-color: tomato; */
+}
+
+tr:nth-of-type(even) td:nth-of-type(odd){
+    background-color: rgb(97, 181, 86);
+    width: 100px; 
+    height: 100px;
+    align: center;
+    /* background-color: tomato; */
+}
+tr:nth-of-type(even) td:nth-of-type(even){
+    background-color: rgb(235, 239, 188);
+    width: 100px; 
+    height: 100px;
+    align: center;
+    /* background-color: tomato; */
+}
