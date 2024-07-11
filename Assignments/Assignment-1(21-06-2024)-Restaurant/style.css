@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;
+    padding: 10px;}
+    
+    .header{
+        
+    }
+    .page {
+    border: 1px solid #665544;
+    background-color: #efefef;
+    padding: inherit;
+    text-align: center;
+    } 
+    h3 {
+        font-family: "Courier New", monospace;
+    }
+
+ol {
+    background-color: hsla(50, 33%, 25%, .1); 
+}
+    h1 {
+        color: DarkCyan;}
+        /* hex code */
+        h2 {
+        color: #ee3e80;}
+        /* rgb value */
+        p {
+        color: rgb(100,100,90);}
+        
